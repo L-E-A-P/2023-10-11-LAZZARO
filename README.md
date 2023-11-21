@@ -1,4 +1,4 @@
-# LAZZARO 030923
+# LAZZARO 111023
 
 _...andare alla radice del suono, come fatto fisico e da qui come fatto musicale [...] riproporre, ma allargandone permanentemente i confini, il rapporto tra tecnologia e composizione._
 
@@ -36,12 +36,3 @@ In riflesso una scultura di Fabio Giorgi Alberti
 
 Con il supporto di Centro Ricerche Musicali, Ars Ludi, Fondazione Isabella Scelsi
 
-![alt](img/arte.03.09-0272.JPG)
-
-![alt](img/arte.03.09-0299.JPG)
-
-![alt](img/arte.03.09-0368.JPG)
-
-![alt](img/arte.03.09-0595.JPG)
-
-![alt](img/arte.03.09-0638.JPG)
